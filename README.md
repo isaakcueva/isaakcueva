@@ -54,44 +54,29 @@
   </a>
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Proyectos
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Algunos Proyectos
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <!-- Proyecto 1 -->
-  <div style="width: 300px; text-align: center;">
-    <a href="https://github.com/isaakcueva/NombreDelProyecto1" title="Ver en GitHub">
-      <img width="100%" src="https://ibb.co/8VWWNWV" alt="Proyecto 1" />
-    </a>
-    <p>
-      <a href="https://github.com/isaakcueva/NombreDelProyecto1" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Proyecto 1" />
-      </a>
-    </p>
-  </div>
+<h3>🚗 AutoFinder</h3>
 
-  <!-- Proyecto 2 -->
-<div style="width: 300px; text-align: center;">
-  <a href="https://ibb.co/1GkQpnZL" title="Ver imagen">
-    <img width="200px" src="https://i.ibb.co/pjSwsP2x/Whats-App-Image-2025-04-15-at-20-02-35.jpg" alt="Whats-App-Image-2025-04-15-at-20-02-35" />
+<p>
+  <img src="https://i.ibb.co/XxTTTRmR/1.png" alt="AutoFinder" width="300" />
+</p>
+
+<p>
+  Aplicación móvil para la comparación de características en distintos modelos de autos.<br>
+  Cuenta con login, lista de favoritos, detalles y búsqueda avanzada.
+</p>
+
+<p>
+  <strong>Repositorio</strong><br>
+  <a href="https://github.com/isaakcueva/NombreDelProyecto" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" width="30" />
   </a>
-  <p>
-    <a href="https://github.com/isaakcueva/NombreDelProyecto2" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Proyecto 2" />
-    </a>
-  </p>
-</div>
+</p>
 
-<!-- Proyecto 3 -->
-<div style="width: 300px; text-align: center;">
-  <a href="https://ibb.co/8VWWNWV" title="Ver imagen">
-    <img width="200px" src="https://i.ibb.co/2BDDWDB/Whats-App-Image-2025-04-15-at-20-06-28.jpg" alt="Whats-App-Image-2025-04-15-at-20-06-28" />
-  </a>
-  <p>
-    <a href="https://github.com/isaakcueva/NombreDelProyecto3" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Proyecto 3" />
-    </a>
-  </p>
-</div>
+
+  
+
 
 
 
