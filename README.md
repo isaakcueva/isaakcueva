@@ -26,7 +26,7 @@
 
 <!--About Me-->
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Sobre mí
+# <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Sobre mí
 
 <picture>  <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnN6bTdyMHY5cnI5bXhsNmF5bzc0cTJ4YTJobDQ2OTk4cGJpcXo0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif" width="300px"></picture>
 
@@ -46,7 +46,7 @@
 
 <br>
 
-## 🛠️ Tecnologías y Heramientas
+# 🛠️ Tecnologías y Heramientas
 <!-- Tech Stack Icons -->
 <p align="center">
   <a href="https://skillicons.dev">
@@ -54,31 +54,22 @@
   </a>
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Algunos Proyectos
+# <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Algunos Proyectos
 
-<h3>🚗 AutoFinder</h3>
+### 🚗 AutoFinder  
 
-<p>
-  <img src="https://i.ibb.co/XxTTTRmR/1.png" alt="AutoFinder" width="300" />
-</p>
+| ![Captura de AutoFinder](https://i.postimg.cc/sxs1vvpR/Captura-de-pantalla-2025-05-02-115657.png) | **Aplicación móvil** para comparar características de autos Desarrollada en React Native y Supabase <br><br> ✅ Login y Lista de favoritos <br><br>  ✅ Comparación de Detalles Técnicos del Auto <br><br>  ✅ Búsqueda Avanzada <br><br>  ✅ Créditos al Equipo: Danny Cano, Javier Pupiales, Esteban Romero  <br><br><br> [![GitHub](https://img.shields.io/badge/Ver-Repositorio-blue?logo=github)](https://github.com/isaakcueva/NombreDelProyecto) |
+|-------------------------------------|-------------------------------------|
 
-<p>
-  Aplicación móvil para la comparación de características en distintos modelos de autos.<br>
-  Cuenta con login, lista de favoritos, detalles y búsqueda avanzada.
-</p>
+### 💧 Página Web - EPMAPS  
 
-<p>
-  <strong>Repositorio</strong><br>
-  <a href="https://github.com/isaakcueva/NombreDelProyecto" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" width="30" />
-  </a>
-</p>
+| ![Captura de EPMAPS](https://i.postimg.cc/xCrXVs88/Captura-de-pantalla-2025-05-02-115729.png) | **Aplicación Web** para la asignación de turnos de atención y pago de servicio de Agua Potable. Desarrollada en C# (ASP.NET) y JQuery con Bootstrap <br><br>  ✅ Base de Datos - SQL Server <br><br>  ✅ API REST <br><br> ✅ Carrito de Compras y Manejo de Pagos <br><br> ✅ CRUD y Datos Estadísticos<br><br><br> [![GitHub](https://img.shields.io/badge/Ver-Repositorio-blue?logo=github)](https://github.com/isaakcueva/NombreDelProyecto) |
+|-------------------------------------|-------------------------------------|
 
+### 📱 SakTec  
 
-  
-
-
-
+| ![Captura de SakTec](https://i.postimg.cc/VkVSDscj/Captura-de-pantalla-2025-05-02-115747.png) | **Aplicativo Web** tipo e-commerce para la venta de dispositivos electrónicos. <br><br>  ✅ Base de Datos - SQL Server  <br><br>  ✅ Manejo y Control de Inventario <br><br>  ✅ Gestión de Pagos Online <br><br> ✅ Búsqueda Avanzada <br><br><br> [![GitHub](https://img.shields.io/badge/Ver-Repositorio-blue?logo=github)](https://github.com/isaakcueva/NombreDelProyecto) |
+|-------------------------------------|-------------------------------------|
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="30px"> </picture> Github Stats
 
