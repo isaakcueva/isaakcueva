@@ -63,7 +63,7 @@
 
 ### 🦜 Clasificador de Aves Andinas 
 
-| ![Captura de CNN](https://i.postimg.cc/GpKTTg9k/Algunos-Proyectos3.png) | **Aplicación Web** para la asignación de turnos de atención y pago de servicio de Agua Potable. Desarrollada en C# (ASP.NET) y JQuery con Bootstrap <br><br>  ✅ Base de Datos - SQL Server <br><br>  ✅ API REST <br><br> ✅ Carrito de Compras y Manejo de Pagos <br><br> ✅ CRUD y Datos Estadísticos<br><br><br> [![GitHub](https://img.shields.io/badge/Ver-Repositorio-blue?logo=github)](https://github.com/isaakcueva/NombreDelProyecto) |
+| ![Captura de CNN](https://i.postimg.cc/MGHQk2Wv/Algunos-Proyectos3.png) | **Aplicación Web** para la asignación de turnos de atención y pago de servicio de Agua Potable. Desarrollada en C# (ASP.NET) y JQuery con Bootstrap <br><br>  ✅ Base de Datos - SQL Server <br><br>  ✅ API REST <br><br> ✅ Carrito de Compras y Manejo de Pagos <br><br> ✅ CRUD y Datos Estadísticos<br><br><br> [![GitHub](https://img.shields.io/badge/Ver-Repositorio-blue?logo=github)](https://github.com/isaakcueva/NombreDelProyecto) |
 |-------------------------------------|-------------------------------------|
 
 ### 📱 SakTec  
