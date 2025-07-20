@@ -30,7 +30,7 @@
 
 <picture>  <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnN6bTdyMHY5cnI5bXhsNmF5bzc0cTJ4YTJobDQ2OTk4cGJpcXo0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif" width="300px"></picture>
 
-- 🎓 Estudiante de Ingeniería en Sistemas en la PUCE - Ecuador
+- 🎓 Ingeniero en Sistemas de la Información PUCE - Ecuador
   
 - 💡 Apasionado por la Tecnología, Data Science, Big Data, BI y Desarollo
   
