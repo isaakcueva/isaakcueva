@@ -61,9 +61,9 @@
 | ![Captura de AutoFinder](https://i.postimg.cc/sxs1vvpR/Captura-de-pantalla-2025-05-02-115657.png) | **Aplicación móvil** para comparar características de autos Desarrollada en React Native y Supabase <br><br> ✅ Login y Lista de favoritos <br><br>  ✅ Comparación de Detalles Técnicos del Auto <br><br>  ✅ Búsqueda Avanzada <br><br>  ✅ Créditos al Equipo: Danny Cano, Javier Pupiales, Esteban Romero  <br><br><br> [![GitHub](https://img.shields.io/badge/Ver-Repositorio-blue?logo=github)](https://github.com/isaakcueva/AutoFinder) |
 |-------------------------------------|-------------------------------------|
 
-### 💧 Página Web - EPMAPS  
+### 🦜 Clasificador de Aves Andinas 
 
-| ![Captura de EPMAPS](https://i.postimg.cc/xCrXVs88/Captura-de-pantalla-2025-05-02-115729.png) | **Aplicación Web** para la asignación de turnos de atención y pago de servicio de Agua Potable. Desarrollada en C# (ASP.NET) y JQuery con Bootstrap <br><br>  ✅ Base de Datos - SQL Server <br><br>  ✅ API REST <br><br> ✅ Carrito de Compras y Manejo de Pagos <br><br> ✅ CRUD y Datos Estadísticos<br><br><br> [![GitHub](https://img.shields.io/badge/Ver-Repositorio-blue?logo=github)](https://github.com/isaakcueva/NombreDelProyecto) |
+| ![Captura de CNN](https://i.postimg.cc/GpKTTg9k/Algunos-Proyectos3.png) | **Aplicación Web** para la asignación de turnos de atención y pago de servicio de Agua Potable. Desarrollada en C# (ASP.NET) y JQuery con Bootstrap <br><br>  ✅ Base de Datos - SQL Server <br><br>  ✅ API REST <br><br> ✅ Carrito de Compras y Manejo de Pagos <br><br> ✅ CRUD y Datos Estadísticos<br><br><br> [![GitHub](https://img.shields.io/badge/Ver-Repositorio-blue?logo=github)](https://github.com/isaakcueva/NombreDelProyecto) |
 |-------------------------------------|-------------------------------------|
 
 ### 📱 SakTec  
