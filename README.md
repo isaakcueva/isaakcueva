@@ -58,7 +58,7 @@
 
 ### 🦜 Clasificador de Aves Andinas 
 
-| ![Captura de CNN](https://i.postimg.cc/MGHQk2Wv/Algunos-Proyectos3.png) | **Sistema de Aprendizaje Automático** para la clasificación de Aves de la Región Andina del Ecuador. Desarrollada en C# (ASP.NET) y JQuery con Bootstrap <br><br>  ✅ Base de Datos - SQL Server <br><br>  ✅ API REST <br><br> ✅ Carrito de Compras y Manejo de Pagos <br><br> ✅ CRUD y Datos Estadísticos<br><br><br> [![GitHub](https://github.com/isaakcueva/ClasificacionAvesCNN) |
+| ![Captura de CNN](https://i.postimg.cc/MGHQk2Wv/Algunos-Proyectos3.png) | **Sistema de Aprendizaje Automático** para la clasificación de Aves de la Región Andina del Ecuador. Desarrollada en C# (ASP.NET) y JQuery con Bootstrap <br><br>  ✅ Base de Datos - SQL Server <br><br>  ✅ API REST <br><br> ✅ Carrito de Compras y Manejo de Pagos <br><br> ✅ CRUD y Datos Estadísticos<br><br><br> [![GitHub](https://img.shields.io/badge/Ver-Repositorio-blue?logo=github)](https://github.com/isaakcueva/ClasificacionAvesCNN) |
 |-------------------------------------|-------------------------------------|
 
 ### 🚗 AutoFinder  
