@@ -68,7 +68,7 @@
 
 ### 📱 SakTec  
 
-| ![Captura de SakTec](https://i.postimg.cc/VkVSDscj/Captura-de-pantalla-2025-05-02-115747.png) | **Aplicativo Web** tipo e-commerce para la venta de dispositivos electrónicos. <br><br>  ✅ Base de Datos - SQL Server  <br><br>  ✅ Control de Inventario <br><br>  ✅ Gestión de Pagos Online <br><br> ✅ Diseño Responsivo <br><br><br> [![GitHub](https://img.shields.io/badge/Ver-Repositorio-blue?logo=github)](https://github.com/isaakcueva/NombreDelProyecto) |
+| ![Captura de SakTec](https://i.postimg.cc/VkVSDscj/Captura-de-pantalla-2025-05-02-115747.png) | **Aplicativo Web** tipo e-commerce para la venta de dispositivos electrónicos. <br><br>  ✅ Base de Datos - SQL Server  <br><br>  ✅ Control de Inventario <br><br>  ✅ Gestión de Pagos Online <br><br> ✅ Diseño Responsivo <br><br><br> [![GitHub](https://img.shields.io/badge/Ver-Repositorio-blue?logo=github)](https://github.com/isaakcueva/SakTec) |
 |-------------------------------------|-------------------------------------|
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="30px"> </picture> Github Stats
