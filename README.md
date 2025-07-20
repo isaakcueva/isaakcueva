@@ -56,6 +56,21 @@
 
 # <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Algunos Proyectos
 
+### 🦜 Clasificador de Aves Andinas – Proyecto de Titulación
+
+| <img src="https://i.postimg.cc/JhtCjKQf/Algunos-Proyectos-1.png" alt="Captura CNN" width="500"/> | **Sistema de Aprendizaje Automático** para la clasificación de Aves de la Región Andina del Ecuador. Desarrollado con TensorFlow/Keras y desplegado en Django.  
+<br><br>  
+✅ Procesamiento de Imágenes  
+<br><br>  
+✅ Clasificación Multiclase de Cinco Especies  
+<br><br>  
+✅ Modelos CNN Entrenados en RGB y Escala de Grises  
+<br><br>  
+✅ Visualización de Predicciones con Django  
+<br><br><br>  
+[![GitHub](https://img.shields.io/badge/Ver-Repositorio-blue?logo=github)](https://github.com/isaakcueva/ClasificacionAvesCNN) |
+|-------------------------------------|-------------------------------------|
+
 ### 🦜 Clasificador de Aves Andinas 
 
 | ![Captura de CNN](https://i.postimg.cc/JhtCjKQf/Algunos-Proyectos-1.png) | **Sistema de Aprendizaje Automático** para la clasificación de Aves de la Región Andina del Ecuador. Desarrollado con TensorFlow/Keras y desplegado en Django. <br><br>  ✅ Procesamiento de Imágenes <br><br>  ✅ Clasificación Multiclase de Cinco Especies <br><br> ✅ Modelos CNN Entrenados en RGB y Escala de Grises <br><br> ✅ Visualización de Predicciones con Django <br><br><br> [![GitHub](https://img.shields.io/badge/Ver-Repositorio-blue?logo=github)](https://github.com/isaakcueva/ClasificacionAvesCNN) |
