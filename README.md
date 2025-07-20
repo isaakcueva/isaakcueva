@@ -58,7 +58,7 @@
 
 ### 🚗 AutoFinder  
 
-| ![Captura de AutoFinder](https://i.postimg.cc/sxs1vvpR/Captura-de-pantalla-2025-05-02-115657.png) | **Aplicación móvil** para comparar características de autos Desarrollada en React Native y Supabase <br><br> ✅ Login y Lista de favoritos <br><br>  ✅ Comparación de Detalles Técnicos del Auto <br><br>  ✅ Búsqueda Avanzada <br><br>  ✅ Créditos al Equipo: Danny Cano, Javier Pupiales, Esteban Romero  <br><br><br> [![GitHub](https://img.shields.io/badge/Ver-Repositorio-blue?logo=github)](https://github.com/isaakcueva/NombreDelProyecto) |
+| ![Captura de AutoFinder](https://i.postimg.cc/sxs1vvpR/Captura-de-pantalla-2025-05-02-115657.png) | **Aplicación móvil** para comparar características de autos Desarrollada en React Native y Supabase <br><br> ✅ Login y Lista de favoritos <br><br>  ✅ Comparación de Detalles Técnicos del Auto <br><br>  ✅ Búsqueda Avanzada <br><br>  ✅ Créditos al Equipo: Danny Cano, Javier Pupiales, Esteban Romero  <br><br><br> [![GitHub](https://img.shields.io/badge/Ver-Repositorio-blue?logo=github)](https://github.com/isaakcueva/AutoFinder) |
 |-------------------------------------|-------------------------------------|
 
 ### 💧 Página Web - EPMAPS  
