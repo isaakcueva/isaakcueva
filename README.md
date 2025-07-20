@@ -56,14 +56,14 @@
 
 # <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Algunos Proyectos
 
+### 🦜 Clasificador de Aves Andinas 
+
+| ![Captura de CNN](https://i.postimg.cc/MGHQk2Wv/Algunos-Proyectos3.png) | **Sistema de Aprendizaje Automático** para la clasificación de Aves de la Región Andina del Ecuador. Desarrollada en C# (ASP.NET) y JQuery con Bootstrap <br><br>  ✅ Base de Datos - SQL Server <br><br>  ✅ API REST <br><br> ✅ Carrito de Compras y Manejo de Pagos <br><br> ✅ CRUD y Datos Estadísticos<br><br><br> [![GitHub](https://github.com/isaakcueva/ClasificacionAvesCNN) |
+|-------------------------------------|-------------------------------------|
+
 ### 🚗 AutoFinder  
 
 | ![Captura de AutoFinder](https://i.postimg.cc/sxs1vvpR/Captura-de-pantalla-2025-05-02-115657.png) | **Aplicación móvil** para comparar características de autos Desarrollada en React Native y Supabase <br><br> ✅ Login y Lista de favoritos <br><br>  ✅ Comparación de Detalles Técnicos del Auto <br><br>  ✅ Búsqueda Avanzada <br><br>  ✅ Créditos al Equipo: Danny Cano, Javier Pupiales, Esteban Romero  <br><br><br> [![GitHub](https://img.shields.io/badge/Ver-Repositorio-blue?logo=github)](https://github.com/isaakcueva/AutoFinder) |
-|-------------------------------------|-------------------------------------|
-
-### 🦜 Clasificador de Aves Andinas 
-
-| ![Captura de CNN](https://i.postimg.cc/MGHQk2Wv/Algunos-Proyectos3.png) | **Aplicación Web** para la asignación de turnos de atención y pago de servicio de Agua Potable. Desarrollada en C# (ASP.NET) y JQuery con Bootstrap <br><br>  ✅ Base de Datos - SQL Server <br><br>  ✅ API REST <br><br> ✅ Carrito de Compras y Manejo de Pagos <br><br> ✅ CRUD y Datos Estadísticos<br><br><br> [![GitHub](https://img.shields.io/badge/Ver-Repositorio-blue?logo=github)](https://github.com/isaakcueva/NombreDelProyecto) |
 |-------------------------------------|-------------------------------------|
 
 ### 📱 SakTec  
